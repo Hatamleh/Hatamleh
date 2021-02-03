@@ -31,4 +31,7 @@
 ![Jira](https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&link=http://right&logoColor=ffffff)
 ![Mocha](https://img.shields.io/badge/mocha-8D6748?style=for-the-badge&logo=mocha&link=http://right&logoColor=ffffff)
 ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&link=http://right&logoColor=ffffff)
+![wdio](https://img.shields.io/badge/wdio-17202C?style=for-the-badge)
+![Appium](https://img.shields.io/badge/Appium-642792?style=for-the-badge)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge)
 
