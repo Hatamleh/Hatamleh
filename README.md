@@ -14,8 +14,8 @@
 
 
 ##### In love with: 
-[![Cypress.io](https://img.shields.io/badge/Cypress.io-17202C?style=for-the-badge&logo=cypress&link=http://right)](https://www.cypress.io)
-[![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&link=http://right&logoColor=000000)](https://www.cypress.io)
+![Cypress.io](https://img.shields.io/badge/Cypress.io-17202C?style=for-the-badge&logo=cypress&link=http://right)
+![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&link=http://right&logoColor=000000)
 
 
 ##### Languages tools and technologies:
