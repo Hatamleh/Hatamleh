@@ -35,3 +35,9 @@
 ![Appium](https://img.shields.io/badge/Appium-642792?style=for-the-badge)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge)
 
+
+##### The best commands that i ever worked with are:
+```js
+  cy.intercept() // mock any API, or test any api call within the application
+  cy.viewport('macbook-16') // run the test on mobile, tablet and laptop view easily
+```
