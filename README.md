@@ -1,43 +1,17 @@
+<h1 align="center">Hi 👋, I'm Hatem Hatamleh</h1>
+<h3 align="center">QA Automation tester and instructor</h3>
 
-### Hello, My name is Hatem and i am a Jordanian 🇯🇴 who lives in the Netherlands 🇳🇱
+- 🔭 I’m currently working on [QAcart](https://qacart.com)
 
-[![Linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&link=http://right)](https://www.linkedin.com/in/hatem-hatamleh/)
-[![Gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&link=http://right&logoColor=ffffff)](mailto:hatem.hatamleh@gmail.com)
-[![Udemy](https://img.shields.io/badge/udemy-EC5252?style=for-the-badge&logo=udemy&link=http://right&logoColor=ffffff)](https://www.udemy.com/user/hatem-hatamleh/)
+- 💬 Ask me about **Cypress, Playwright, Selenium**
 
+- 📫 How to reach me **hatem.hatamleh@gmail.com**
 
-- A proud father 👨‍👧
-- An expert Automation Test Engineer 💻
-- An Instructor who gives courses related to Automation Testing 🎥
-- A consultant for Automation Projects and pipelines 🌪️
-- I am very good in football ⚽
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/hatem-hatamleh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hatem-hatamleh/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/q=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="q=" height="30" width="40" /></a>
+</p>
 
-
-##### In love with: 
-![Cypress.io](https://img.shields.io/badge/Cypress.io-17202C?style=for-the-badge&logo=cypress&link=http://right)
-![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&link=http://right&logoColor=000000)
-
-
-##### Languages tools and technologies:
-
-![Selenium](https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&link=http://right&logoColor=ffffff)
-![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&link=http://right&logoColor=ffffff)
-![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&link=http://right&logoColor=ffffff)
-![Jankins](https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&link=http://right&logoColor=ffffff)
-![Gitlab](https://img.shields.io/badge/gitlab-FCA121?style=for-the-badge&logo=gitlab&link=http://right&logoColor=ffffff)
-![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&link=http://right&logoColor=ffffff)
-![CircleCI](https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&link=http://right&logoColor=ffffff)
-![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&link=http://right&logoColor=ffffff)
-![Jira](https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&link=http://right&logoColor=ffffff)
-![Mocha](https://img.shields.io/badge/mocha-8D6748?style=for-the-badge&logo=mocha&link=http://right&logoColor=ffffff)
-![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&link=http://right&logoColor=ffffff)
-![wdio](https://img.shields.io/badge/wdio-17202C?style=for-the-badge)
-![Appium](https://img.shields.io/badge/Appium-642792?style=for-the-badge)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge)
-
-
-##### The best commands that i ever worked with are:
-```js
-  cy.intercept() // mock any API, or test any api call within the application
-  cy.viewport('macbook-16') // run the test on mobile, tablet and laptop view easily
-```
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
