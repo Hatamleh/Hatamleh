@@ -12,8 +12,9 @@
 - I am very good in football ⚽
 
 
-##### In love with: 
+##### Expert in: 
 ![Cypress.io](https://img.shields.io/badge/Cypress.io-17202C?style=for-the-badge&logo=cypress&link=http://right)
+![Selenium](https://img.shields.io/badge/Selenium-00AA01?style=for-the-badge&logo=selenium&link=http://right&logoColor=ffffff)
 ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&link=http://right&logoColor=000000)
 
 
