@@ -6,9 +6,10 @@
 
 
 - A proud father 👨‍👧
+- Founder of QAcart ♦️
 - An expert Automation Test Engineer 💻
 - An Instructor who gives courses related to Automation Testing 🎥
-- A consultant for Automation Projects and pipelines 🌪️
+- A consultant in automation testing 🌪️
 - I am very good in football ⚽
 
 
